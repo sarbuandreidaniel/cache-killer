@@ -1,0 +1,28 @@
+{
+  "name": "cache-killer",
+  "version": "1.0.1",
+  "description": "A jQuery plugin that refreshes the files on your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://sarbuandreidaniel@bitbucket.org/sarbuandreidaniel/cache-killer.git"
+  },
+  "keywords": [
+    "cache",
+    "jquery",
+    "killer"
+  ],
+  "author": "sarbuandreidaniel@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
