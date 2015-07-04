@@ -5,7 +5,7 @@ A jQuery plugin that refreshes the files (**css, images and scripts**) on your w
 Load the cacke-killer.min.js script after the jQuery library
 ```
     <script src="path/to/the/jQuery/library"></script>
-    <script src="js/cacke-killer.min.js"></script>
+    <script src="path/to/cacke-killer.min.js"></script>
 ```
 Init the plugin in your .js file right after the document.ready declaration
 ```
