@@ -77,7 +77,7 @@
                 $('html script').each(function (index, value) {
                     var script = $(value),
                         scriptSrc = script.attr('src');
-                    script.attr('src', scriptSrc + "?cacheKiller=" + randString(5));
+                    if (scriptSrc) script.attr('src', scriptSrc + "?cacheKiller=" + randString(5));
                 })
             }
         }
