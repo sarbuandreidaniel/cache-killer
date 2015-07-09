@@ -1,0 +1,21 @@
+{
+  "name": "cache-killer",
+  "version": "1.0.5",
+  "authors": [
+    "sarbuandreidaniel <sarbuandreidaniel@yahoo.com>"
+  ],
+  "description": "A jQuery plugin that refreshes the files on your website",
+  "keywords": [
+    "cache",
+    "jquery",
+    "killer"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
