@@ -2,6 +2,19 @@
 A jQuery plugin that refreshes the files (**css, images and scripts**) on your website
 
 ### Installing instructions
+
+Using npm
+```
+    npm install cache-killer
+```
+Using bower
+```
+    bower install cache-killer
+```
+Using git
+```
+    git clone https://github.com/sarbuandreidaniel/cache-killer.git
+```
 Load the cacke-killer.min.js script after the jQuery library
 ```
     <script src="path/to/the/jQuery/library"></script>
